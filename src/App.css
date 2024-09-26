@@ -1,0 +1,90 @@
+*{
+  box-sizing: border-box;
+}
+.nike{
+  width: 10vw;
+  height:10vh;
+ margin-left:2vw;
+}
+.nav{
+  height:10vh;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+ 
+}
+.middle{
+  display:flex;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  justify-content: space-between;
+  width:25vw;
+  font-size: large;
+  font-weight: 600;
+  align-items:center;
+}
+
+.login{
+  border-radius: 6%;
+  width:5.5vw;
+  text-align:center;
+  margin-right:2.5vw;
+  background-color:red;
+  font-size: large;
+  font-weight: 600;
+  color:white;
+}
+.heading{
+  font-size: 3vw;
+  font-weight: bolder;
+}
+.chota{
+  color:rgb(61, 57, 57);
+  font-weight: bolder;
+}
+.haha{
+  margin:3rem;
+
+}
+h1{
+  margin:0px;
+}
+.tra{
+  display:flex;
+}
+.shoe{
+  margin-top:3em;
+  height:70vh;
+  width:50vw;
+}
+.last{
+  display:flex;
+  margin-left:4em;
+}
+.shop{
+background-color:red ;  
+text-align:center;
+color:white;
+width:7vw;  
+padding-top:3px;
+margin-right:1vw;
+height:4vh;
+
+}
+.category{
+  text-align:center;
+  width:7vw; 
+  height:4vh;
+  border:1px solid black;
+  padding-top:3px;
+}
+span{
+  margin-left:3.7rem;
+}
+.logo{
+  margin-left: 3.7rem;
+  width:2.5rem;
+  
+}
+.lo{
+  height:2rem;
+}
